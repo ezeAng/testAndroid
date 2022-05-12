@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="rich_text">YOU ARE RICH</string>
+    <string name="another_reminder">ANOTHER REMINDER</string>
+</resources>
